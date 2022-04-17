@@ -1,4 +1,4 @@
-## About The Project
+## About
 
 In this project, I retrained GPT2 (117M) on a corpus dataset of tiny Shakespearean sentences and a contemporary poem dataset based on Poetry Foundation's Website and
 generated multiple Shakespearean plays and contemporary poems.
