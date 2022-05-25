@@ -1,7 +1,10 @@
-## About
+<h2 align='center'>Creative Writing with Machine Learning</h2>
 
-In this project, I retrained GPT2 (117M) on a corpus dataset of tiny Shakespearean sentences and a contemporary poem dataset based on Poetry Foundation's Website and
-generated multiple Shakespearean plays and contemporary poems.
+## Task Description
+
+The task is to retrained GPT2 (117M) on a corpus dataset of tiny Shakespearean sentences and a contemporary poem dataset based on Poetry Foundation's Website and generated multiple Shakespearean plays and contemporary poems from the model.
+
+Example:
 
 ![image](https://media.graphcms.com/0xbzn4mQQXGjHViObnyq)
 
