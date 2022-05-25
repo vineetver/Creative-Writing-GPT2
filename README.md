@@ -8,9 +8,8 @@ Example:
 
 ![image](https://media.graphcms.com/0xbzn4mQQXGjHViObnyq)
 
-## Getting Started
 
-### Dependancies
+## Dependancies
 
 List of all the libraries you need to run the code.
 
@@ -19,8 +18,6 @@ List of all the libraries you need to run the code.
   gpt-2-simple
   ```
 
-
-<!-- USAGE EXAMPLES -->
 ## Usage
 
   ```sh
@@ -33,7 +30,7 @@ List of all the libraries you need to run the code.
   $ jupyter notebook
   ```
   
-### View code
+## View code
 
 [Nbviewer](https://nbviewer.org/github/vineetver/creative-writing-gpt2/blob/main/GPT2_Creative_Writing.ipynb)
 
